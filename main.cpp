@@ -32,8 +32,6 @@ void mornScene(){
 
 
 
-//-pesawat( salsa) // stack di langit
-
 
 
 
@@ -58,7 +56,7 @@ void mornScene(){
 
 
 
-//-sungai  (wiwi)
+//-tanah
 
 
 
